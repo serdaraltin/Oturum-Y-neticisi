@@ -1,4 +1,4 @@
-**OTURUM YÖONETİCİSİ**<br>
+**OTURUM YÖNETİCİSİ**<br>
 
 Sistemin genel oturum olaylarını gecikmeli gerçekleştirmeye olanak sağlar.
 
