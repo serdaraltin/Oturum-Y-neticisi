@@ -1,0 +1,21 @@
+C:\Users\Main\AppData\Local\Temporary Projects\Oturum Yöneticisi\obj\x86\Debug\Oturum_Yöneticisi.Resources.resources
+C:\Users\Main\AppData\Local\Temporary Projects\Oturum Yöneticisi\obj\x86\Debug\Oturum Yöneticisi.vbproj.GenerateResource.Cache
+C:\Users\Main\AppData\Local\Temporary Projects\Oturum Yöneticisi\bin\Debug\Oturum Yöneticisi.exe
+C:\Users\Main\AppData\Local\Temporary Projects\Oturum Yöneticisi\bin\Debug\Oturum Yöneticisi.pdb
+C:\Users\Main\AppData\Local\Temporary Projects\Oturum Yöneticisi\bin\Debug\Oturum Yöneticisi.xml
+C:\Users\Main\AppData\Local\Temporary Projects\Oturum Yöneticisi\obj\x86\Debug\Oturum Yöneticisi.exe
+C:\Users\Main\AppData\Local\Temporary Projects\Oturum Yöneticisi\obj\x86\Debug\Oturum Yöneticisi.xml
+C:\Users\Main\AppData\Local\Temporary Projects\Oturum Yöneticisi\obj\x86\Debug\Oturum Yöneticisi.pdb
+C:\Users\Main\AppData\Local\Temporary Projects\Oturum Yöneticisi\obj\x86\Debug\Oturum_Yöneticisi.Form1.resources
+C:\Users\Main\documents\visual studio 2010\Projects\Oturum Yöneticisi\Oturum Yöneticisi\obj\x86\Debug\Oturum Yöneticisi.exe
+C:\Users\Main\documents\visual studio 2010\Projects\Oturum Yöneticisi\Oturum Yöneticisi\obj\x86\Debug\Oturum Yöneticisi.xml
+C:\Users\Main\documents\visual studio 2010\Projects\Oturum Yöneticisi\Oturum Yöneticisi\obj\x86\Debug\Oturum Yöneticisi.pdb
+C:\Users\Main\documents\visual studio 2010\Projects\Oturum Yöneticisi\Oturum Yöneticisi\bin\Debug\Oturum Yöneticisi.exe
+C:\Users\Main\documents\visual studio 2010\Projects\Oturum Yöneticisi\Oturum Yöneticisi\bin\Debug\Oturum Yöneticisi.pdb
+C:\Users\Main\documents\visual studio 2010\Projects\Oturum Yöneticisi\Oturum Yöneticisi\bin\Debug\Oturum Yöneticisi.xml
+C:\Users\Main\documents\visual studio 2010\Projects\Oturum Yöneticisi\Oturum Yöneticisi\obj\x86\Debug\Oturum_Yöneticisi.Form1.resources
+C:\Users\Main\documents\visual studio 2010\Projects\Oturum Yöneticisi\Oturum Yöneticisi\obj\x86\Debug\Oturum_Yöneticisi.Resources.resources
+C:\Users\Main\documents\visual studio 2010\Projects\Oturum Yöneticisi\Oturum Yöneticisi\obj\x86\Debug\Oturum Yöneticisi.vbproj.GenerateResource.Cache
+C:\Users\Root\Documents\Visual Studio 2010\Projects\Oturum Yöneticisi\Oturum Yöneticisi\obj\x86\Debug\Oturum Yöneticisi.exe
+C:\Users\Root\Documents\Visual Studio 2010\Projects\Oturum Yöneticisi\Oturum Yöneticisi\obj\x86\Debug\Oturum Yöneticisi.xml
+C:\Users\Root\Documents\Visual Studio 2010\Projects\Oturum Yöneticisi\Oturum Yöneticisi\obj\x86\Debug\Oturum Yöneticisi.pdb
